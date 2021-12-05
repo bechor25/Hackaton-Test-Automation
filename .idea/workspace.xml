@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c7f6bef-d51c-4ba7-8968-509bc11907c1" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExternalData.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_11_2021_11_40__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_11_2021_11_40__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_11_2021_12_01__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_11_2021_12_01__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_11_2021_15_01__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_11_2021_15_01__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/extensions/ApiActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/extensions/ApiActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/CommonOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/CommonOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/DDT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/DDT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/workflow/WebFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/workflow/WebFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCase/ElectronTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCase/ElectronTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCase/WebTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCase/WebTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/extensions/ApiActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/extensions/ApiActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/CommonOps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/CommonOps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/DDT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/DDT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/Listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/Listener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testCase/ElectronTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testCase/ElectronTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testCase/WebTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testCase/WebTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="21XVCO7HpXdllz6X9wUqVUTR24k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.packagesearch.PackageSearchGeneralConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Workflow" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Automation\ness\Hackathon\Hackathon" />
+      <recent name="D:\Automation\ness\Hackathon\Hackathon\src\main\java\PageObjects" />
+      <recent name="D:\לא למחוק\Desktop\ness\Hackathon\Hackathon\src\main\java\PageObjects" />
+      <recent name="D:\לא למחוק\Desktop\ness\Hackathon\Hackathon\src\main\java\PageObjects\grafanaWeb" />
+      <recent name="D:\לא למחוק\Desktop\ness\Hackathon\Hackathon\src\test\java\TestCase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/HackatonTestAutomation/configWeb.xml">
+    <configuration name="C:/HackatonTestAutomation/configWeb.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HackatonTestAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/configWeb.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Automation/Hackathon/configApi.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hackathon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/configApi.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Automation/Hackathon/configElectron.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hackathon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/configElectron.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Automation/ness/Hackathon/Hackathon/configDesktop.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hackathon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/configDesktop.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Automation/ness/Hackathon/Hackathon/configWeb.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Hackathon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/configWeb.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/HackatonTestAutomation/configWeb.xml" />
+        <item itemvalue="TestNG.D:/Automation/Hackathon/configElectron.xml" />
+        <item itemvalue="TestNG.D:/Automation/Hackathon/configApi.xml" />
+        <item itemvalue="TestNG.D:/Automation/ness/Hackathon/Hackathon/configWeb.xml" />
+        <item itemvalue="TestNG.D:/Automation/ness/Hackathon/Hackathon/configDesktop.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c7f6bef-d51c-4ba7-8968-509bc11907c1" name="Changes" comment="" />
+      <created>1638087292959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638087292959</updated>
+    </task>
+    <task id="LOCAL‎00001" summary="infrastructure">
+      <created>1638172348815</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1638172348816</updated>
+    </task>
+    <task id="LOCAL‎00002" summary="infrastructure_2">
+      <created>1638173192521</created>
+      <option name="number" value="LOCAL‎00002" />
+      <option name="presentableId" value="LOCAL‎00002" />
+      <updated>1638173192521</updated>
+    </task>
+    <task id="LOCAL‎00003" summary="infrastructure_2">
+      <created>1638178011085</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1638178011085</updated>
+    </task>
+    <task id="LOCAL‎00004" summary="Base">
+      <created>1638180962088</created>
+      <option name="number" value="LOCAL‎00004" />
+      <option name="presentableId" value="LOCAL‎00004" />
+      <updated>1638180962088</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update">
+      <created>1638403932948</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638403932949</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="7e83d43c-5ffc-441f-a260-2f799f2bd359">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/HackatonTestAutomation/src/main/java/pageObjects" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="7e83d43c-5ffc-441f-a260-2f799f2bd359" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="infrastructure" />
+    <MESSAGE value="infrastructure_2" />
+    <MESSAGE value="Base" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+</project>
